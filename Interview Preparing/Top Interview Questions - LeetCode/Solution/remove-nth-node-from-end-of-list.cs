@@ -9,7 +9,8 @@
  *     }
  * }
  */
-public class removenthnodefromendoflist {
+public class removenthnodefromendoflist
+{
     public ListNode RemoveNthFromEnd(ListNode head, int n)
     {
         int len = 0;

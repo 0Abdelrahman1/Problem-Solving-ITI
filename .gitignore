@@ -1,6 +1,7 @@
 ACPC*/
 vs config for cpp/
-
+.gitignore
+*.copilot
 
 # ==========================================
 # Visual Studio / MSBuild (C# and C++ / MSVS)
