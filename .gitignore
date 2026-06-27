@@ -1,1 +1,106 @@
 ACPC*/
+vs config for cpp/
+
+
+# ==========================================
+# Visual Studio / MSBuild (C# and C++ / MSVS)
+# ==========================================
+
+# User-specific files and settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo.tmp
+
+# Build results and outputs
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa]rm/
+[Aa]rm64/
+binstobj/
+obj/
+bin/
+
+# Visual Studio cache, logs, and indexing databases
+.vs/
+$Storage$/
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.cache
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.log
+
+# MSBuild Generated Code / Project Files
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pch.lnk
+*.res
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.buildlog
+
+# JetBrains Rider & Visual Studio Roslyn Analyzers
+.cr/
+
+# NuGet Packages
+*.nuget.props
+*.nuget.targets
+packages/
+project.lock.json
+project.fragment.lock.json
+clinit.txt
+
+# ==========================================
+# CLion / CMake / JetBrains IDEs
+# ==========================================
+
+# CLion project files and build directories
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+.cmake/
+
+# CMake temporary and generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# ==========================================
+# Operating System & General Cleanups
+# ==========================================
+
+# Windows thumbnail caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
