@@ -7,7 +7,7 @@ public class dividetwointegers
         return (int) Math.Min(1l * dividend / divisor, int.MaxValue);
     }
 
-    public int Divide(int dd, int d)
+    public int Divide1(int dd, int d)
     {
         long dividend = dd;
         long divisor = d;
@@ -34,15 +34,15 @@ public class dividetwointegers
     }
 
     // This Solution Learned from "https://leetcode.com/problems/divide-two-integers/solutions/142849/cjavapython-should-not-use-long-int-by-l-bb5h"
-    public int Divide(int dividend, int divisor)
+    public int Divide2(int dividend, int divisor)
     {
         if (dividend == int.MinValue)
             if (divisor == -1)
                 return int.MaxValue;
             else if (divisor < 0)
-                return Divide(dividend - divisor, divisor) + 1;
+                return Divide2(dividend - divisor, divisor) + 1;
             else
-                return Divide(dividend + divisor, divisor) - 1;
+                return Divide2(dividend + divisor, divisor) - 1;
         else if (divisor == int.MinValue)
             return 0;
 

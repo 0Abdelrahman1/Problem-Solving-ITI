@@ -43,25 +43,25 @@ public class mergeksortedlists {
         return MergeLists(lists);
     }
 
-    //public ListNode MergeKLists(ListNode[] lists)
-    //{
-    //    PriorityQueue<ListNode, int> pq = new();
+    public ListNode MergeKLists1(ListNode[] lists)
+    {
+        PriorityQueue<ListNode, int> pq = new();
 
-    //    foreach (ListNode list in lists)
-    //    {
-    //        var node = list;
-    //        while (node != null)
-    //        {
-    //            pq.Enqueue(node, node.val);
-    //            node = node.next;
-    //        }
-    //    }
-    //    ListNode head = new();
-    //    var cur = head;
-    //    while (pq.Count > 0)
-    //        cur = cur.next = new(pq.Dequeue().val);
+        foreach (ListNode list in lists)
+        {
+            var node = list;
+            while (node != null)
+            {
+                pq.Enqueue(node, node.val);
+                node = node.next;
+            }
+        }
+        ListNode head = new();
+        var cur = head;
+        while (pq.Count > 0)
+            cur = cur.next = new(pq.Dequeue().val);
 
-    //    return head.next;
-    //}
+        return head.next;
+    }
 
 }
