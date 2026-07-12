@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="A - Sereja and Dima/A - Sereja and Dima.csproj" />
+  <Project Path="B - Books/B - Books.csproj" />
+  <Project Path="C - Vasya and String/C - Vasya and String.csproj" />
+  <Project Path="D - They Are Everywhere/D - They Are Everywhere.csproj" />
+  <Project Path="E - Cellular Network/E - Cellular Network.csproj" />
+  <Project Path="F - Petya and Strings/F - Petya and Strings.csproj" />
+  <Project Path="G - Gravity Flip/G - Gravity Flip.csproj" />
+  <Project Path="H - Anton and Danik/H - Anton and Danik.csproj" />
+  <Project Path="I - Vanya and Fence/I - Vanya and Fence.csproj" />
+  <Project Path="J - Fence/J - Fence.csproj" />
+</Solution>
