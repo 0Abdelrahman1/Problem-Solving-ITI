@@ -1,4 +1,4 @@
-﻿public class Merge_Sorted_Array
+﻿public partial class Solution
 {
     public void Merge(int[] nums1, int m, int[] nums2, int n)
     {

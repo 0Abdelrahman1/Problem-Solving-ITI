@@ -1,4 +1,4 @@
-﻿public class Permutations
+﻿public partial class Solution
 {
     public IList<IList<int>> Permute(int[] nums)
     {

@@ -1,4 +1,4 @@
-﻿public class Largest_Rectangle_in_Histogram
+﻿public partial class Solution
 {
     public int LargestRectangleArea(int[] heights)
     {

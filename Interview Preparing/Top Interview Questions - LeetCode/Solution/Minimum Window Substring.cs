@@ -1,4 +1,4 @@
-﻿public class Minimum_Window_Substring
+﻿public partial class Solution
 {
     public string MinWindow(string s, string t)
     {

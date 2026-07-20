@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-public class valid_sudoku
+﻿public partial class Solution
 {
     public bool IsValidSudoku(char[][] board)
     {

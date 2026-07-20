@@ -1,4 +1,4 @@
-﻿public class removeduplicatesfromsortedarray
+﻿public partial class Solution
 {
     public int RemoveDuplicates(int[] nums)
     {

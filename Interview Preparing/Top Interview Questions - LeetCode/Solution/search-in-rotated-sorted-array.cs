@@ -1,5 +1,4 @@
-﻿
-public class search_in_rotated_sorted_array
+﻿public partial class Solution
 {
     public int Search(int[] nums, int target)
     {

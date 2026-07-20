@@ -1,4 +1,4 @@
-﻿public class Spiral_Matrix
+﻿public partial class Solution
 {
     public IList<int> SpiralOrder(int[][] M)
     {

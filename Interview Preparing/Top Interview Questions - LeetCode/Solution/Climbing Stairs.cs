@@ -1,4 +1,4 @@
-﻿class Climbing_Stairs
+﻿public partial class Solution
 {
     public int ClimbStairs(int n)
     {

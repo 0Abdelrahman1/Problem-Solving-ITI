@@ -1,4 +1,4 @@
-﻿public class Pow_x__n_
+﻿public partial class Solution
 {
     public double MyPow(double x, int n)
     {

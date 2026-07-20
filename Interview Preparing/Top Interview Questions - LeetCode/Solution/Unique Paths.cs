@@ -1,4 +1,4 @@
-﻿public class Unique_Paths
+﻿public partial class Solution
 {
     public int UniquePaths(int m, int n)
     {

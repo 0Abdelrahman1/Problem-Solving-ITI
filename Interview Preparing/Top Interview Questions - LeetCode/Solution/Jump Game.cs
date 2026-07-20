@@ -1,4 +1,4 @@
-﻿public class Jump_Game
+﻿public partial class Solution
 {
     public bool CanJump(int[] nums)
     {

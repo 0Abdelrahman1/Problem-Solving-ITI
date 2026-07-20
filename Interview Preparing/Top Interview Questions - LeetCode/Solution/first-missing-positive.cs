@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Runtime.InteropServices;
-
-public class first_missing_positive
+﻿public partial class Solution
 {
     public int FirstMissingPositive(int[] nums)
     {

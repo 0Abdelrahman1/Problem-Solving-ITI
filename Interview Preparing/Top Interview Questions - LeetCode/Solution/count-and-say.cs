@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-public class count_and_say
+public partial class Solution
 {
     string RLE(string s)
     {

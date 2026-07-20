@@ -1,4 +1,4 @@
-﻿public class Word_Search
+﻿public partial class Solution
 {
     public bool Exist(char[][] board, string word)
     {

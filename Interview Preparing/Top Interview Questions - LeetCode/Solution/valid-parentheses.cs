@@ -1,4 +1,4 @@
-public class ValidParentheses
+public partial class Solution
 {
     public bool IsValid(string s)
     {

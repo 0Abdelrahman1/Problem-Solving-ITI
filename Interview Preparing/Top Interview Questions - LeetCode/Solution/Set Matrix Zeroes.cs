@@ -1,4 +1,4 @@
-﻿public class Set_Matrix_Zeroes
+﻿public partial class Solution
 {
     public void SetZeroes(int[][] M)
     {

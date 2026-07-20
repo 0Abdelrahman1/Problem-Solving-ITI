@@ -1,4 +1,4 @@
-﻿public class GenerateParentheses
+﻿public partial class Solution
 {
     public IList<string> GenerateParenthesis(int n)
     {

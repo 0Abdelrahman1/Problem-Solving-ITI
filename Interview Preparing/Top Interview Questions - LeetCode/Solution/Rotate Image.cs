@@ -1,4 +1,4 @@
-﻿public class Rotate_Image
+﻿public partial class Solution
 {
     public void Rotate(int[][] matrix)
     {

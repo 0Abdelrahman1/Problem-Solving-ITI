@@ -9,7 +9,8 @@
  *     }
  * }
  */
-public class mergetwosortedlists {
+public partial class Solution
+{
     public ListNode MergeTwoLists(ListNode list1, ListNode list2)
     {
         ListNode list3 = new();
@@ -28,7 +29,7 @@ public class mergetwosortedlists {
                 list2 = list2.next;
             }
         }
-        cur.next = list1 ?? list2;
+        cur.next = list1 ?? list2!;
         return list3.next;
     }
 }

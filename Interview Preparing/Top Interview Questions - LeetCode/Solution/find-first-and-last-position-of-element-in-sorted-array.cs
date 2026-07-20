@@ -1,4 +1,4 @@
-﻿public class find_first_and_last_position_of_element_in_sorted_array
+﻿public partial class Solution
 {
     public int[] SearchRange(int[] nums, int target)
     {

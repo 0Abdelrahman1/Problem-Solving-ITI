@@ -1,4 +1,4 @@
-﻿public class Subsets_
+﻿public partial class Solution
 {
     public IList<IList<int>> Subsets(int[] nums, int i = 1)
     {

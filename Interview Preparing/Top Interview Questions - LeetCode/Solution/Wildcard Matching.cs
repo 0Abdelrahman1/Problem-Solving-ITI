@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-public class Wildcard_Matching
+﻿public partial class Solution
 {
     public bool IsMatch(string s, string p)
     {

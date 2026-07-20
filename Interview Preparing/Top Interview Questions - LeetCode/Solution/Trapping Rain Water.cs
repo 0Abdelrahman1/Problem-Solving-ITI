@@ -1,4 +1,4 @@
-﻿public class Trapping_Rain_Water
+﻿public partial class Solution
 {
     public int Trap(int[] height)
     {

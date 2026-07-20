@@ -1,4 +1,4 @@
-﻿public class Merge_Intervals
+﻿public partial class Solution
 {
     public int[][] Merge(int[][] intervals)
     {

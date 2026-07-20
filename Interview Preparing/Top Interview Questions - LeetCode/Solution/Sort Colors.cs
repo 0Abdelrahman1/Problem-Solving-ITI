@@ -1,4 +1,4 @@
-﻿public class Sort_Colors
+﻿public partial class Solution
 {
     public void SortColors(int[] nums)
     {

@@ -1,4 +1,4 @@
-﻿public class Group_Anagrams
+﻿public partial class Solution
 {
     public IList<IList<string>> GroupAnagrams(string[] strs)
     {

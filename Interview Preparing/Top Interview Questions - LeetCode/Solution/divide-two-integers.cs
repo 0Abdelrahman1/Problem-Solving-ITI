@@ -1,10 +1,8 @@
-﻿using System.Numerics;
-
-public class dividetwointegers
+﻿public partial class Solution
 {
     public int Divide(int dividend, int divisor)
     {
-        return (int) Math.Min(1l * dividend / divisor, int.MaxValue);
+        return (int) Math.Min(1L * dividend / divisor, int.MaxValue);
     }
 
     public int Divide1(int dd, int d)

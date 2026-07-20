@@ -1,4 +1,4 @@
-﻿public class Plus_One
+﻿public partial class Solution
 {
     public int[] PlusOne(int[] digits)
     {

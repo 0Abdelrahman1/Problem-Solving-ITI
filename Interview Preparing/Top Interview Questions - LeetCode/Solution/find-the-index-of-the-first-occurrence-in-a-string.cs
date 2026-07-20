@@ -1,4 +1,4 @@
-﻿public  class findtheindexofthefirstoccurrenceinastring
+﻿public partial class Solution
 {
     public int StrStr(string haystack, string needle)
     {
