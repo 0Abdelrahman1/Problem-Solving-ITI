@@ -1,11 +1,1 @@
-{
-  "type": "excalidraw",
-  "version": 2,
-  "source": "https://marketplace.visualstudio.com/items?itemName=philiphendry.excalidraw-editor",
-  "elements": [],
-  "appState": {
-    "gridSize": null,
-    "viewBackgroundColor": "#ffffff"
-  },
-  "files": {}
-}
+{"type":"excalidraw","version":2,"source":"https://philiphendry.me.uk/excalidrawinvisualstudio","elements":[],"appState":{"currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":1,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","scrollX":0,"scrollY":0,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false},"files":{}}
